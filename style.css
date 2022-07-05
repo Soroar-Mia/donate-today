@@ -24,3 +24,25 @@ body{
     text-align: center;
     padding: 60px 100px;
 }
+.donate-taka{
+    border: 2px solid tomato;
+    padding: 30px 30px;
+    margin: 10px;
+    font-weight: 700;
+}
+.plan-title{
+    text-align: center; 
+}
+.donate-link{
+    margin: 50px;
+}
+.plan-flex{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.plan-div{
+    margin: 10px;
+    padding: 20px;
+    background-color: burlywood;
+}
