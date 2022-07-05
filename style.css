@@ -2,3 +2,25 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url("images/donation0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text{
+    text-align: center;
+    color: white;
+    padding: 60px 100px;
+}
+.donate-text{
+    text-align: center;
+    padding: 60px 100px;
+}
